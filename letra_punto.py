@@ -20,4 +20,3 @@ letra = np.stack((letra_r, letra_g, letra_b), axis=2)
 
 plt.imshow(letra)
 plt.show()
-
