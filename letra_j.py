@@ -31,4 +31,6 @@ letra_b = np.array([[col_bg[0], col_bg[0], col_bg[0],col_bg[0], col_bg[0], col_b
 letra = np.stack((letra_r, letra_g, letra_b), axis=2)
 
 plt.imshow(letra)
+plt.title('Letra J')
+plt.axis('off') 
 plt.show()
