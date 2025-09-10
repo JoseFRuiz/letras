@@ -5,9 +5,10 @@ import matplotlib.pyplot as plt
 col_tar = (0, 0, 255)  
 col_bg = (0, 128, 0)   
 
+# u
 
 letra_r_u = np.array([
-    [ col_bg[0], col_bg[0], col_bg[0], col_bg[0],  col_bg[0]],
+    [col_bg[0], col_bg[0], col_bg[0], col_bg[0],  col_bg[0]],
     [col_tar[0], col_bg[0], col_bg[0], col_bg[0], col_tar[0]],
     [col_tar[0], col_bg[0], col_bg[0], col_bg[0], col_tar[0]],
     [col_tar[0], col_bg[0], col_bg[0], col_bg[0], col_tar[0]],
