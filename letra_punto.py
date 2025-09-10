@@ -18,6 +18,6 @@ letra_b = np.array([[col_bg[2], col_bg[2], col_bg[2]],
 
 letra = np.stack((letra_r, letra_g, letra_b), axis=2)
 
+
 plt.imshow(letra)
 plt.show()
-
