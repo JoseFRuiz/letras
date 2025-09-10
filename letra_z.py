@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 col_tar = (0, 0, 0)
 col_bg = (255, 255, 255)
 
+
 letra_r = np.array([[col_bg[0], col_bg[0], col_bg[0], col_bg[0]],
                     [col_tar[0], col_tar[0], col_tar[0], col_tar[0]],
                     [col_bg[0], col_bg[0], col_bg[0], col_tar[0]],
